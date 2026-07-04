@@ -1,4 +1,5 @@
-# 💫 Hi I'm Ravi Jaiswal 
+# 👋 Hi I'm Ravi Jaiswal
+**A passionate Software Engineer || Java Developer || Frontend Engineer**
 <ul style="list-style-type: none; padding-left: 0;">
   <li>🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a "Software Engineer" at "Aligne India Pvt. Ltd"</li>
   <li>🏅 𝙸’𝚖 an Athlete who loves to play sports.</li>
@@ -6,23 +7,28 @@
   <li>👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 "𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, Backend development"</li>
   <li>💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.</li>
   <li>😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : '𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜'</li>
-  <li>⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : The more you learn feels: you know nothing</li>
+  <li>⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : The more you learn, the more you realize you know nothing</li>
 </ul>
-</br>
+
+<!-- Profile views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravijaiswalu9v&label=Profile%20views&color=0e75b6&style=flat" alt="ravijaiswalu9v" /> </p>
+
 
 ## 🌐 Socials:
+<div align="center"> 
+<a href="https://linkedin.com/in/ravi-jaiswal-b58b77206" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a> &nbsp;
+<a href="https://youtube.com/@code_montee" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
+</a> &nbsp;
+<a href="mailto:ravijaiswalu9v@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+</a> &nbsp;
 <a href="https://instagram.com/i_am_ravi.jaiswal" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://linkedin.com/in/ravi-jaiswal-b58b77206" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://youtube.com/@code_montee" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
-</a>
-<a href="mailto:ravijaiswalu9v@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-</a>
+</div>
 </br>
 
 
@@ -39,8 +45,13 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ravijaiswalu9v&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
+## 📊 Repo View:
+<div align="left">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-## Operating Systems 🐧 :
+
+## 🐧 Operating Systems  :
 
 <p align='center'>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa24xNHlhOGJobnVrbzE2NXNsenprNTkxd2J6ZW92dmh5amRmY3NueCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
@@ -52,8 +63,6 @@
 </p>
 <hr>
 
-[![](https://komarev.com/ghpvc/?username=ravijaiswalu9v&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 <h2 align='center'>Support me by starring ⭐ some of my Repositories</h2>
@@ -62,7 +71,3 @@
 <p align='center'>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNzYWk0cGQweTB4a2xzdnR4OXdvYTlpeW80OGQwaW1hYXUybzJtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L9Q2rzzBHrfv4a1y4h/giphy.gif" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
-
-<br>
-
-
