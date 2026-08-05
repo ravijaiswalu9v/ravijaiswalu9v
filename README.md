@@ -1,7 +1,7 @@
 # 👋 Hi I'm Ravi Jaiswal
 **A passionate Software Engineer || Java Developer || Frontend Engineer**
 <ul style="list-style-type: none; padding-left: 0;">
-  <li>🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a "Software Engineer" at "Aligne India Pvt. Ltd"</li>
+  <li>🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a "Java Developer" at "Aligne India Pvt. Ltd"</li>
   <li>🏅 𝙸’𝚖 an Athlete who loves to play sports.</li>
   <li>🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 "𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐, Content creation, Digital Marketing"</li>
   <li>👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 "𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, Backend development"</li>
